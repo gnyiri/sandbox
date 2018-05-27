@@ -1,0 +1,6 @@
+[submodule "serialization/protobuf/tool/protobuf"]
+	path = serialization/protobuf/tool/protobuf
+	url = https://github.com/google/protobuf.git
+[submodule "serialization/flatbuffers/tool/flatbuffers"]
+	path = serialization/flatbuffers/tool/flatbuffers
+	url = https://github.com/google/flatbuffers.git

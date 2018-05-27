@@ -1,0 +1,2 @@
+project(flatbuffers-examples)
+
