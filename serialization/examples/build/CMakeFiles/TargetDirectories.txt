@@ -1,2 +1,0 @@
-/host-home/data/dev/my-projects/sandbox/serialization/examples/build/CMakeFiles/rebuild_cache.dir
-/host-home/data/dev/my-projects/sandbox/serialization/examples/build/CMakeFiles/edit_cache.dir
